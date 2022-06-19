@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Retshepile
 - 👀 I’m interested in Java, Spring, Angular, React
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking for permanent/contract roles in Java
+- 💞️ I’m looking for permanent/contract roles in Java, around South Africa.
 - 📫 You can reach me on E:mahasha.retshepile@gmail.com
 
 <!---
